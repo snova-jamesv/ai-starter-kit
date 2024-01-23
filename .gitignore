@@ -3,3 +3,4 @@ export.env
 enterprise_knowledge_retriever/doc_demo
 __pycache__
 .venv
+secrets.toml
